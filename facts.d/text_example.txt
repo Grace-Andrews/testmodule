@@ -1,0 +1,5 @@
+type_of_fact=text
+favorite_author=mandela
+hair_color=blonde
+child=athena
+environment_admin=grace
